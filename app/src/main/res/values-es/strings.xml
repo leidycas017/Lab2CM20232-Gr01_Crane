@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Crane</string>
+
+    <string name="cd_menu">Menu</string>
+    <string name="cd_back">Atras</string>
+    <string name="cd_loading">Lateral</string>
+    <string name="cd_drawer">Abierto</string>
+    <string name="click_label_select">Seleccionar</string>
+    <string name="state_descr_selected">Seleccionado</string>
+    <string name="state_descr_not_selected">No seleccionado</string>
+    <string name="screen_title_find_trips">Encontrar viajes</string>
+    <string name="screen_title_my_trips">Mis viajes</string>
+    <string name="screen_title_saved_trips">Viajes guardados</string>
+    <string name="screen_title_price_alerts">Alerta de precios</string>
+    <string name="screen_title_my_account">Mi cuenta</string>
+    <string name="calendar_select_dates_title">Fechas seleccionadas</string>
+    <string name="explore_flights_by_destination">Explorar vuelos a su destino</string>
+    <string name="explore_properties_by_destination">Explorar acomodación en su destino</string>
+    <string name="explore_restaurants_by_destination">Explorar Restaurantes en su destino</string>
+    <string name="input_select_location">Seleccionar ubicación</string>
+    <string name="input_select_time">Seleccionar el tiempo</string>
+    <string name="select_destination_hint">Elige un destino</string>
+    <string name="select_destination_to_caption">a</string>
+    <string name="select_dates">Seleccionar fechas</string>
+    <string name="error_max_people">Error: No hay soporte para más personas</string>
+    <plurals name="number_adults_selected">
+        <item quantity="one"> %d Adult%s</item>
+        <item quantity="other"> %d Adults%s</item>
+        <item quantity="two"> %d Adults%s</item>
+        <item quantity="many"> %d Adults%s</item>
+    </plurals>
+</resources>
